@@ -1,8 +1,8 @@
 # Exp - 3 RAILWAY MANAGEMENT SYSTEM
 
-| Name    | Janardhan P |
+| Name    | Rakesh Rathna M|
 |---------|-------------|
-| Reg No  | 212224040128|
+| Reg No  | 212224040265|
 
 # AIM:
 
